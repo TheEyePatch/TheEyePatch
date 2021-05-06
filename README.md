@@ -9,7 +9,7 @@
 - :mortar_board: Graduated Railway Engineering and Management at Polytechnic University of the Philippines :philippines:
 - :student: Studying Software Engineering at Avion School
 
-## :computer: Tech Stack
+## :computer: Skills
 
 - :atom: HTML | CSS | Javascript | Ruby
 - :gear: Git
