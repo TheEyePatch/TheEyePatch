@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Leif Ericson Bersamina.
+### Hi there! 👋 My name is Leif Ericson.
 
 <!--
 **TheEyePatch/TheEyePatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
 - :mortar_board: Graduated Railway Engineering and Management at Polytechnic University of the Philippines :philippines:
 - :student: Studying Software Engineering at Avion School
 
-## :computer: Skills
+## :computer: Languages and Tools:
 
 - :atom: HTML | CSS | Javascript | Ruby
 - :gear: Git
