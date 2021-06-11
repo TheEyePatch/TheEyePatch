@@ -11,5 +11,5 @@
 
 ## :computer: Languages and Tools:
 
-- :atom: HTML | CSS | Javascript | Ruby
+- :atom: HTML | CSS | Javascript | Ruby | Ruby on Rails
 - :gear: Git
