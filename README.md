@@ -8,7 +8,6 @@
 ### Software Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEyePatch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Leif's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEyePatch&show_icons=true&theme=highcontrast)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theeyepatch" />
