@@ -1,11 +1,15 @@
-# Hi there! 👋 My name is Leif Ericson.
+# Hi there! 👋 My name is Leif Bersamina.
 
 <!--
 **TheEyePatch/TheEyePatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## :adult: About Me:
-### Software Engineer
+### I'm a Software Engineer that specializes on Ruby on Rails framework and is still enthusiastic in learning more about it. I love building apps with Rails because of it's simplicity and easy to understand code. I'm constantly striving to stay updated with the latest developments and best practices in the Ruby on Rails ecosystem.
+### Although Rails is what I consider my specialty, I also have basic understanding of React and a keen interest in utilizing it for building dynamic and interactive interfaces.
+
+<br/>
+
+## Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEyePatch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Leif's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEyePatch&show_icons=true&theme=highcontrast)
